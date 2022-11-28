@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D1vSw2JuhP672kC71J7AkZN/Cb+Zyjynv8cSejpav3o=",
+  "Source": "IntegraCatFact.Servicos.Api",
+  "BasePath": "_content/IntegraCatFact.Servicos.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
