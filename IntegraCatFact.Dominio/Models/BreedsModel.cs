@@ -1,14 +1,14 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace IntegraCatFactApi.Dominio.Models
+namespace IntegraCatFact.Dominio.Models
 {
-
     public class BreedsModel
     {
-        public List<Data>? data { get; set; }
+        [JsonPropertyName("data")]
+        public List<DataModelo>? dados { get; set; }
     }
 
-    public class Data
+    public class DataModelo
     {
         [JsonPropertyName("breed")]
         public string? Raca { get; set; }
@@ -23,7 +23,7 @@ namespace IntegraCatFactApi.Dominio.Models
         public string? Casaco { get; set; }
 
         [JsonPropertyName("pattern")]
-        public string? PadraO { get; set; }
+        public string? Padrao { get; set; }
     }
 }
 
