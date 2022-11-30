@@ -9,27 +9,21 @@ namespace IntegraCatFact.Testes
     [TestClass]
     public class BreedsServiceTest
     {
+        private readonly BreedsService _breedsService;
         private readonly Mock<IMapper> _mapperMock = new();
         private readonly Mock<ICatFactApi> _catFactApiMock = new();
 
-        //private readonly IBreedsService _breedsService;
-
-        //public BreedsServiceTest()
-        //{
-        //    var service = new ServiceCollection();
-        //    service.AddTransient<IBreedsService, BreedsService>();
-
-        //    var provider = service.BuildServiceProvider();
-        //    _breedsService = provider.GetService<IBreedsService>();
-        //}
+        public BreedsServiceTest()
+        {
+            _breedsService = new BreedsService(_mapperMock.Object, _catFactApiMock.Object);
+        }
 
         [TestMethod]
-        public void Post_Test_OK()
+        public void Post_Test()
         {
-            var _breedsService = new BreedsService(_mapperMock.Object, _catFactApiMock.Object);
+            var responseAPI = _breedsService.BuscarBreeds(null, String.Empty, String.Empty, String.Empty, String.Empty, String.Empty);
 
-            var responseAPI = _breedsService.BuscarBreeds(10, String.Empty, String.Empty, String.Empty, String.Empty, String.Empty);
-            Assert.IsInstanceOfType(responseAPI.Result, typeof(OkResult));
+            Assert.IsInstanceOfType(responseAPI, typeof(OkResult));
         }
 
     }
