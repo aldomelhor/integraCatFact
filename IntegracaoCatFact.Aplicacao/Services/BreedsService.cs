@@ -7,17 +7,17 @@ namespace IntegraCatfact.Aplicacao.Services
     public class BreedsService : IBreedsService
     {
         private readonly IMapper _mapper;
-        private readonly ICatfactApi _catfactApi;
+        private readonly ICatFactApi _catFactApi;
 
-        public BreedsService(IMapper mapper, ICatfactApi catfactApi)
+        public BreedsService(IMapper mapper, ICatFactApi catFactApi)
         {
             _mapper = mapper;
-            _catfactApi = catfactApi;
+            _catFactApi = catFactApi;
         }
 
         public async Task<ResponseGenerico<BreedsDto>> BuscarBreeds(int? limite, string? raca, string? pais, string? origem, string? casaco, string? padrao)
         {
-            var retorno = await _catfactApi.BuscarBreeds(limite);
+            var retorno = await _catFactApi.BuscarBreeds(limite);
 
             if (retorno.DadosRetorno.dados != null && (!String.IsNullOrEmpty(raca) || !String.IsNullOrEmpty(pais) || !String.IsNullOrEmpty(origem) || !String.IsNullOrEmpty(casaco) || !String.IsNullOrEmpty(padrao)))
             {

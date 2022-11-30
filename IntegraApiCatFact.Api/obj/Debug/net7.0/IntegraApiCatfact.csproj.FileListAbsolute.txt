@@ -1,7 +1,0 @@
-C:\Users\aldom\source\repos\IntegraApiCatfact\IntegraApiCatfact\obj\Debug\net7.0\IntegraApiCatfact.csproj.AssemblyReference.cache
-C:\Users\aldom\source\repos\IntegraApiCatfact\IntegraApiCatfact\obj\Debug\net7.0\IntegraApiCatfact.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\aldom\source\repos\IntegraApiCatfact\IntegraApiCatfact\obj\Debug\net7.0\IntegraApiCatfact.AssemblyInfoInputs.cache
-C:\Users\aldom\source\repos\IntegraApiCatfact\IntegraApiCatfact\obj\Debug\net7.0\IntegraApiCatfact.AssemblyInfo.cs
-C:\Users\aldom\source\repos\IntegraApiCatfact\IntegraApiCatfact\obj\Debug\net7.0\IntegraApiCatfact.csproj.CoreCompileInputs.cache
-C:\Users\aldom\source\repos\IntegraApiCatfact\IntegraApiCatfact\obj\Debug\net7.0\IntegraApiCatfact.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\aldom\source\repos\IntegraApiCatfact\IntegraApiCatfact\obj\Debug\net7.0\IntegraApiCatfact.MvcApplicationPartsAssemblyInfo.cache

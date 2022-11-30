@@ -6,7 +6,7 @@ using IntegraCatFact.Dominio.Models;
 
 namespace IntegraCatfact.Aplicacao.Rest
 {
-    public class CatfactApiRest : ICatfactApi
+    public class CatFactApiRest : ICatFactApi
     {
         
         public async Task<ResponseGenerico<BreedsModel>> BuscarBreeds(int? limite)

@@ -1,0 +1,15 @@
+C:\Users\aldom\source\repos\IntegraApiCatfact\IntegracaoCatFact.Aplicacao\bin\Debug\net6.0\IntegraCatFact.Aplicacao.deps.json
+C:\Users\aldom\source\repos\IntegraApiCatfact\IntegracaoCatFact.Aplicacao\bin\Debug\net6.0\IntegraCatFact.Aplicacao.dll
+C:\Users\aldom\source\repos\IntegraApiCatfact\IntegracaoCatFact.Aplicacao\bin\Debug\net6.0\IntegraCatFact.Aplicacao.pdb
+C:\Users\aldom\source\repos\IntegraApiCatfact\IntegracaoCatFact.Aplicacao\bin\Debug\net6.0\IntegraCatFact.Dominio.dll
+C:\Users\aldom\source\repos\IntegraApiCatfact\IntegracaoCatFact.Aplicacao\bin\Debug\net6.0\IntegraCatFact.Dominio.pdb
+C:\Users\aldom\source\repos\IntegraApiCatfact\IntegracaoCatFact.Aplicacao\obj\Debug\net6.0\IntegraCatFact.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\aldom\source\repos\IntegraApiCatfact\IntegracaoCatFact.Aplicacao\obj\Debug\net6.0\IntegraCatFact.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldom\source\repos\IntegraApiCatfact\IntegracaoCatFact.Aplicacao\obj\Debug\net6.0\IntegraCatFact.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\aldom\source\repos\IntegraApiCatfact\IntegracaoCatFact.Aplicacao\obj\Debug\net6.0\IntegraCatFact.Aplicacao.AssemblyInfo.cs
+C:\Users\aldom\source\repos\IntegraApiCatfact\IntegracaoCatFact.Aplicacao\obj\Debug\net6.0\IntegraCatFact.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\aldom\source\repos\IntegraApiCatfact\IntegracaoCatFact.Aplicacao\obj\Debug\net6.0\IntegraCatFact.Aplicacao.csproj.CopyComplete
+C:\Users\aldom\source\repos\IntegraApiCatfact\IntegracaoCatFact.Aplicacao\obj\Debug\net6.0\IntegraCatFact.Aplicacao.dll
+C:\Users\aldom\source\repos\IntegraApiCatfact\IntegracaoCatFact.Aplicacao\obj\Debug\net6.0\refint\IntegraCatFact.Aplicacao.dll
+C:\Users\aldom\source\repos\IntegraApiCatfact\IntegracaoCatFact.Aplicacao\obj\Debug\net6.0\IntegraCatFact.Aplicacao.pdb
+C:\Users\aldom\source\repos\IntegraApiCatfact\IntegracaoCatFact.Aplicacao\obj\Debug\net6.0\ref\IntegraCatFact.Aplicacao.dll
